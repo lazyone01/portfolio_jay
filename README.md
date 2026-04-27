@@ -7,7 +7,7 @@ This website showcases my projects, skills, and experience.
 
 ## 🚀 Live Demo
 
-👉 **[View Portfolio]([https://your-live-link.vercel.app/](https://portfolio-jay-dax4.vercel.app/))**
+👉 https://portfolio-jay-dax4.vercel.app/
 
 ---
 
